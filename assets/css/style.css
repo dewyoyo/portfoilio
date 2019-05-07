@@ -1,0 +1,26 @@
+
+html, body {
+    height: 100%;
+    width: 100%;
+    font-family: 'Poppins', sans-serif;
+    color: #222;
+}
+
+.header {
+    height: 100%;
+    width: 100%;
+    background-image: url("../images/computer_coding.png");
+}
+
+.navbar {
+    padding: .8rem;
+    border-bottom: 2px solid #cccccc;
+}
+
+.navbar-brand {
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 2rem;
+    border-top: 5px solid gray;
+    border-bottom: 5px solid gray;
+    padding: 0;
+}
