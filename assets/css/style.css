@@ -9,7 +9,7 @@ html, body {
 .header {
     height: 100%;
     width: 100%;
-    background-image: url("../images/computer_coding.png");
+    /* background-image: url("../images/computer_coding.png"); */
 }
 
 .navbar {
