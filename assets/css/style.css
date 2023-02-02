@@ -12,7 +12,13 @@ html, body {
     /* color: white; */
     /* height:20rem; */
 }
-
+.d-flex {
+    color: whitesmoke;
+    background-color: #2c2c2c;
+    position: fixed;
+    z-index: 1;
+    width : 100%;
+}
 .jumbotron {
     color: whitesmoke;
     background-image: url("../images/night_work.jpg");
@@ -33,15 +39,14 @@ html, body {
     text-align: center;
 }
 
-.self-exp{
+.self-exp {
     font-family: 'Playball', cursive;
     padding: 1rem;
 }
-.navbar {
+/*.navbar {
     padding: .8rem;
-    /* color: white; */
-    /* border-bottom: 2px solid #cccccc; */
-}
+
+}*/
 
 /* .navbar-brand {
     font-family: 'Shadows Into Light', cursive;
@@ -50,6 +55,9 @@ html, body {
     border-bottom: 5px solid gray;
     padding: 0;
 } */
+.container {
+    z-index: 100;
+}
 .card {
     height: 25rem;
 }
