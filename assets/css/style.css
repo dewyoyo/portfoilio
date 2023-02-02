@@ -56,7 +56,7 @@ html, body {
     padding: 0;
 } */
 .container {
-    z-index: 100;
+    z-index: 99;
 }
 .card {
     height: 25rem;
