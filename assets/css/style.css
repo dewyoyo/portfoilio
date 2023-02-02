@@ -19,6 +19,9 @@ html, body {
     z-index: 1;
     width : 100%;
 }
+.my-2 {
+    padding : 0.5rem;
+}
 .jumbotron {
     color: whitesmoke;
     background-image: url("../images/night_work.jpg");
